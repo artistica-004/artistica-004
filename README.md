@@ -61,7 +61,7 @@ I focus on building scalable AI solutions using **LangChain, Groq, Streamlit, an
 
 # 🚀 Projects
 
-🔹 Multi-PDF Chatbot with Source Citations
+## 🔹Multi-PDF Chatbot with Source Citations
 Built a Retrieval-Augmented Generation (RAG) web application that lets you upload multiple PDFs and ask questions across all of them simultaneously.
 Tech Stack:
 
