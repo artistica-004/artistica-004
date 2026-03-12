@@ -61,6 +61,27 @@ I focus on building scalable AI solutions using **LangChain, Groq, Streamlit, an
 
 # 🚀 Projects
 
+🔹 Multi-PDF Chatbot with Source Citations
+Built a Retrieval-Augmented Generation (RAG) web application that lets you upload multiple PDFs and ask questions across all of them simultaneously.
+Tech Stack:
+
+Python
+Streamlit
+LangChain
+ChromaDB
+Groq AI (Llama 3.3 70B)
+HuggingFace Embeddings
+
+Features:
+
+Upload multiple PDFs at once
+Ask questions across all documents simultaneously
+Source citations — shows exactly which PDF and page number answered your question
+Semantic search using vector embeddings
+Persistent vector store across multiple questions
+
+🔗 https://shivani-multi-pdf-chatbot.streamlit.app/
+
 ## 🔹 GenAI RAG Application
 Built a Generative AI web application using **Streamlit, Groq, and LangChain**.
 
