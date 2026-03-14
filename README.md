@@ -80,7 +80,7 @@ Source citations — shows exactly which PDF and page number answered your quest
 Semantic search using vector embeddings
 Persistent vector store across multiple questions
 
-🔗 https://shivani-multi-pdf-chatbot.streamlit.app/
+🔗 https://huggingface.co/spaces/artistica-004/multi-pdf-chatbot
 
 ## 🔹 GenAI RAG Application
 Built a Generative AI web application using **Streamlit, Groq, and LangChain**.
