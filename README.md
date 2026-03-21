@@ -13,14 +13,14 @@
 Generative AI Engineer passionate about building **LLM-powered applications**, **RAG systems**, and **intelligent AI tools**.
 
 I focus on building scalable AI solutions using **LangChain**, **Groq**, **Streamlit**, and **Hugging Face** — with strong attention to performance, accuracy, and real-world usability.
-```
+<br/>
 
-🔭 Currently working on     &nbsp; **LLM-powered RAG pipelines & AI assistants**
-🤝 Looking to collaborate on &nbsp; **Generative AI & full-stack AI projects**
-🌱 Currently learning        &nbsp; **LangGraph, Agentic workflows & fine-tuning**
-💬 Ask me about              &nbsp; **RAG, Prompt Engineering, LangChain, Groq**
-⚡ Fun fact                  &nbsp; **I turn documents into conversations with AI ✨**
-```
+🔭 &nbsp; **Currently working on** — LLM-powered RAG pipelines & AI assistants  
+🤝 &nbsp; **Looking to collaborate on** — Generative AI & full-stack AI projects  
+🌱 &nbsp; **Currently learning** — LangGraph, Agentic workflows & fine-tuning  
+💬 &nbsp; **Ask me about** — RAG, Prompt Engineering, LangChain, Groq   
+
+<br/>
 
 ---
 
