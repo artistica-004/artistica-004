@@ -9,44 +9,51 @@
 ## 🌟 About Me
 
 <img align="right" alt="AI Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Generative AI Engineer passionate about building **LLM-powered applications**, **RAG systems**, and **intelligent AI tools**.
+
+I focus on building scalable AI solutions using **LangChain**, **Groq**, **Streamlit**, and **Hugging Face** — with strong attention to performance, accuracy, and real-world usability.
 ```
 
-🔭 I'm currently working on  &nbsp; **LLM-powered RAG pipelines & AI assistants**
-
-🤝 I'm looking to collaborate on  &nbsp; **Generative AI & full-stack AI projects**
-
-🤲 I'm looking for help with  &nbsp; **Advanced agentic AI systems**
-
-🌱 I'm currently learning  &nbsp; **LangGraph, Agentic workflows & fine-tuning**
-
-💬 Ask me about  &nbsp; **RAG, Prompt Engineering, LangChain, Groq**
-
-⚡ Fun fact  &nbsp; **I turn documents into conversations with AI ✨**
+🔭 Currently working on     &nbsp; **LLM-powered RAG pipelines & AI assistants**
+🤝 Looking to collaborate on &nbsp; **Generative AI & full-stack AI projects**
+🌱 Currently learning        &nbsp; **LangGraph, Agentic workflows & fine-tuning**
+💬 Ask me about              &nbsp; **RAG, Prompt Engineering, LangChain, Groq**
+⚡ Fun fact                  &nbsp; **I turn documents into conversations with AI ✨**
 ```
 
 ---
 
 ## 🧠 What I Do
 
-- 🤖 Build **LLM-powered apps** using Groq and LangChain  
-- 📚 Develop **RAG systems** with semantic search & vector embeddings  
-- 🎯 Design **AI chatbots** and intelligent assistants  
-- 🚀 Deploy AI apps on **Streamlit & Hugging Face Spaces**  
-- 🔧 Integrate APIs & optimize prompts for structured outputs  
+- 🤖 Build **LLM-powered applications** using Groq and LangChain
+- 📚 Develop **RAG (Retrieval Augmented Generation)** systems
+- 🔍 Implement **semantic search** and vector embeddings
+- 🧑‍💻 Design **AI chatbots** and intelligent assistants
+- 🚀 Deploy AI apps using **Streamlit & Hugging Face Spaces**
+- 🔧 Integrate APIs & optimize prompts for structured, grounded outputs
 
 ---
 
-## 🌐 Socials
+## 🧩 Core Expertise
 
-<div align="center">
+**🤖 Generative AI & LLMs**
+- Retrieval Augmented Generation (RAG)
+- Prompt Engineering & Context Optimization
+- Semantic Search & Embeddings
+- LLM API Integration — Groq, HuggingFace
+- AI Chatbot Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cs-shivani/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artistica-004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300ffcc.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://my-portfolio-git-main-artistica-004s-projects.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanichaudhary042215@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/artistica-004)
+**⚙️ Backend & AI Development**
+- Python, FastAPI
+- API Integration & NLP Processing
+- Data Preprocessing Pipelines
 
-</div>
+**🌐 Web Development**
+- HTML, CSS, JavaScript, PHP, Bootstrap
+
+**🗄️ Databases**
+- MySQL, PostgreSQL, SQL
 
 ---
 
@@ -69,6 +76,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **⚙️ Frameworks & Backend**
 
@@ -76,24 +84,24 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **🗄️ Databases**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 **☁️ Deployment & Tools**
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 ---
 
@@ -103,7 +111,26 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=artistica-004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artistica-004&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artistica-004&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cs-shivani/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artistica-004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300ffcc.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://my-portfolio-git-main-artistica-004s-projects.vercel.app/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/artistica-004)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanichaudhary042215@gmail.com)
 
 </div>
 
