@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivani%20Chaudhary&fontSize=50&fontColor=00ffcc&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Builder%20%7C%20RAG%20Specialist&descAlignY=60&descColor=aefff0" />
-
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Full--Time%20AI%20Roles-brightgreen?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=artistica-004&color=00ffcc&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivani%20Chaudhary&fontSize=50&fontColor=00ffcc&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20LLM%20Builder%20%7C%20RAG%20Specialist&descAlignY=60&descColor=aefff0" />
 
 </div>
 
@@ -13,13 +10,15 @@
 
 <img align="right" alt="AI Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-AI Engineer with hands-on experience building **LLM-powered applications**, **RAG pipelines**, and **agentic AI systems** — shipped to production.
+Generative AI Engineer passionate about building **LLM-powered applications**, **RAG systems**, and **intelligent AI tools**.
 
-- 🔭 **Currently building** — Vidya V3, an AI-powered career development platform (LangChain + Pinecone + AWS Lambda)
-- 🚀 **Deployed** — 5+ end-to-end AI apps on HuggingFace Spaces & AWS
-- 🤖 **Specialties** — RAG, Prompt Engineering, dual-LLM fallback design, structured output generation
-- 🌱 **Currently deepening** — LangGraph, Agentic workflows, LLM fine-tuning (LoRA/QLoRA)
-- 💬 **Ask me about** — RAG pipelines, LangChain, Pinecone, FastAPI, Prompt Engineering
+I focus on building scalable AI solutions using **LangChain**, **Groq**, **Streamlit**, and **Hugging Face** — with strong attention to performance, accuracy, and real-world usability.
+<br/>
+
+🔭 &nbsp; **Currently working on** — LLM-powered RAG pipelines & AI assistants  
+🤝 &nbsp; **Looking to collaborate on** — Generative AI & full-stack AI projects  
+🌱 &nbsp; **Currently learning** — LangGraph, Agentic workflows & fine-tuning  
+💬 &nbsp; **Ask me about** — RAG, Prompt Engineering, LangChain, Groq   
 
 <br/>
 
@@ -27,63 +26,34 @@ AI Engineer with hands-on experience building **LLM-powered applications**, **RA
 
 ## 🧠 What I Do
 
-- 🤖 Build **LLM-powered applications** with OpenAI, Gemini, Groq, and Claude — including dual-LLM fallback architectures
-- 📚 Design **RAG systems** with semantic search, vector DBs (Pinecone, ChromaDB, FAISS), and multi-document QA
-- ⚙️ Engineer **agentic pipelines** using LangChain with structured JSON output, ICP-based personalization, and evaluation workflows
-- ☁️ Deploy AI services on **AWS Lambda, API Gateway, SQS** integrated with backend REST APIs
-- 🔧 Build **n8n automation workflows** — feedback analysis, code summarization, real-time data pipelines
-- 🧑‍💻 Ship AI chatbots, assistants, and tools on **Streamlit & HuggingFace Spaces**
+- 🤖 Build **LLM-powered applications** using Groq and LangChain
+- 📚 Develop **RAG (Retrieval Augmented Generation)** systems
+- 🔍 Implement **semantic search** and vector embeddings
+- 🧑‍💻 Design **AI chatbots** and intelligent assistants
+- 🚀 Deploy AI apps using **Streamlit & Hugging Face Spaces**
+- 🔧 Integrate APIs & optimize prompts for structured, grounded outputs
 
 ---
 
-## 💼 Experience
+## 🧩 Core Expertise
 
-**🏢 Vidya (AI EdTech Platform) — AI Developer Intern** `May 2026 – Present | Remote`
-- Built AI roadmap generation pipeline using LangChain (OpenAI + Gemini fallback), Pinecone, and AWS (Lambda, API Gateway, SQS) — deployed to production
-- Designed ICP-based personalized prompt schemas and integrated AI service with backend REST APIs
+**🤖 Generative AI & LLMs**
+- Retrieval Augmented Generation (RAG)
+- Prompt Engineering & Context Optimization
+- Semantic Search & Embeddings
+- LLM API Integration — Groq, HuggingFace
+- AI Chatbot Development
 
-**🏢 Unified Mentor — Python & AI Intern** `Apr 2024 – Jul 2024 | Remote`
-- Built NLP preprocessing pipelines (tokenization, stopword removal, similarity scoring)
-- Implemented embedding-based semantic search using Sentence-Transformers
-- Built LangChain workflows for structured LLM outputs
+**⚙️ Backend & AI Development**
+- Python, FastAPI
+- API Integration & NLP Processing
+- Data Preprocessing Pipelines
 
----
+**🌐 Web Development**
+- HTML, CSS, JavaScript, PHP, Bootstrap
 
-## 🚀 Projects
-
-### 🗂️ [Multi-PDF RAG Chatbot](https://huggingface.co/artistica-004)
-RAG pipeline using LangChain, ChromaDB, and Groq for multi-document QA — semantic search with embeddings, <3s response time, persistent session architecture.
-
-### 📄 [AI Resume Analyzer](https://huggingface.co/artistica-004)
-LLM system with structured JSON output (Pydantic), resume-JD keyword matching, semantic similarity scoring, and multi-step rewriting pipeline.
-
-### 🔄 N8N Automation Workflows
-LLM-integrated n8n workflows — feedback analysis, code summarization, conditional logic, real-time data storage.
-
-### 🎙️ [AI Live Assistant](https://huggingface.co/artistica-004)
-Real-time AI assistant with web search (SerpAPI), API orchestration pipeline, near real-time responses (<3s latency).
-
-### 🎬 [Video Note Extractor](https://huggingface.co/artistica-004)
-AI pipeline converting video to structured notes using Whisper API + LLaMA — fast transcription and organized output generation.
-
----
-
-## 🧩 Core Skills
-
-**🤖 AI/ML**
-- LLMs, RAG, Agentic AI Pipelines, Embeddings, Semantic Search, Prompt Engineering, NLP, Fine-tuning (LoRA, QLoRA)
-
-**⚙️ Frameworks & Tools**
-- LangChain, FastAPI, HuggingFace, ChromaDB, FAISS, Pinecone, Streamlit, n8n
-
-**💻 Programming**
-- Python, SQL, OOPs
-
-**☁️ Cloud & Deployment**
-- AWS (Lambda, API Gateway, SQS, S3), HuggingFace Spaces, Docker (basic), REST APIs
-
-**📚 Libraries**
-- PyTorch, Scikit-learn, Pandas, NumPy
+**🗄️ Databases**
+- MySQL, PostgreSQL, SQL
 
 ---
 
@@ -93,44 +63,45 @@ AI pipeline converting video to structured notes using Whisper API + LLaMA — f
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**🌐 Web Development**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **⚙️ Frameworks & Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**☁️ Cloud & Deployment**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 **🗄️ Databases**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-**🔧 Tools**
+**☁️ Deployment & Tools**
 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📜 Certifications
-
-- 🏅 Complete Generative AI Certification — Udemy
-- 🤗 AI Agents Course — Hugging Face
-- 🤗 LLM Course — Hugging Face
-- 🤗 Fine-tuning Language Models (LoRA, QLoRA) — Hugging Face
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
