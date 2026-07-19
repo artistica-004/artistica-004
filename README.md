@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 ## 🌟 About Me
 
 <img align="right" alt="AI Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -29,25 +30,6 @@ AI Engineer with hands-on experience building **LLM-powered applications**, **RA
 - ☁️ Deploy AI services on **AWS Lambda, API Gateway, SQS** integrated with backend REST APIs
 - 🔧 Build **n8n automation workflows** — feedback analysis, code summarization, real-time data pipelines
 - 🧑‍💻 Ship AI chatbots, assistants, and tools on **Streamlit & HuggingFace Spaces**
-
----
-
-## 🚀 Projects
-
-### 🗂️ [Multi-PDF RAG Chatbot](https://huggingface.co/artistica-004)
-RAG pipeline using LangChain, ChromaDB, and Groq for multi-document QA — semantic search with embeddings, <3s response time, persistent session architecture.
-
-### 📄 [AI Resume Analyzer](https://huggingface.co/artistica-004)
-LLM system with structured JSON output (Pydantic), resume-JD keyword matching, semantic similarity scoring, and multi-step rewriting pipeline.
-
-### 🔄 N8N Automation Workflows
-LLM-integrated n8n workflows — feedback analysis, code summarization, conditional logic, real-time data storage.
-
-### 🎙️ [AI Live Assistant](https://huggingface.co/artistica-004)
-Real-time AI assistant with web search (SerpAPI), API orchestration pipeline, near real-time responses (<3s latency).
-
-### 🎬 [Video Note Extractor](https://huggingface.co/artistica-004)
-AI pipeline converting video to structured notes using Whisper API + LLaMA — fast transcription and organized output generation.
 
 ---
 
