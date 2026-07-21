@@ -99,15 +99,6 @@ AI pipeline converting video to structured notes using Whisper API + LLaMA — f
 
 ---
 
-## 📜 Certifications
-
-- 🏅 Complete Generative AI Certification — Udemy
-- 🤗 AI Agents Course — Hugging Face
-- 🤗 LLM Course — Hugging Face
-- 🤗 Fine-tuning Language Models (LoRA, QLoRA) — Hugging Face
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
